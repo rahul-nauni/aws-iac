@@ -1,0 +1,15 @@
+# SSH key-pair dir
+.ssh
+
+# Terraform providers cache
+.terraform
+
+# Terraform lock file
+.terraform.lock.hcl
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Terraform plan file
+tfplan
